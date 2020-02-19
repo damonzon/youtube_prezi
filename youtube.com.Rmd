@@ -1,0 +1,29 @@
+---
+title: "Youtube Videos"
+author: "Patrick Kelly"
+date: "2/18/2020"
+output: html_document
+---
+
+[Click Here](https://www.youtube.com/watch?v=vG9VhiWr_hk)"RACHEL - Kenya"
+
+[Click Here](https://www.youtube.com/watch?v=UfsBnhTOUXY)"RACHEL2 - Kenya"
+
+[Click Here](https://www.youtube.com/watch?v=jV0fryZE5GI)"ABCs - Sakina School - Mali"
+
+[Click Here](https://www.youtube.com/watch?v=T9VFoNfPy0w&t=14s)"NFCT - Demo Bridge Portage Trail"
+
+[Click Here](https://www.youtube.com/watch?v=gmjJ9WNYvOo&t=7s)"March for our lives"
+
+[Click Here](https://www.youtube.com/watch?v=ujpLRcCKYOs&t=1s)"Where there is no internet"
+
+[Click Here](https://www.youtube.com/watch?v=fUffCz-q1FI)"Voltaire - Lisbon"
+
+[Click Here](https://www.youtube.com/watch?v=LJVWmDtQ1tc)"Jabberwocky"
+
+# Prezi Classic
+
+For the videos without sound, you can click on the setup icon in the lower right for autoplay.
+
+[Click Here](https://prezi.com/iryx6w0erg7u/sky-gazing/)"Prezi Classic"
+
